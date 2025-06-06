@@ -1,5 +1,3 @@
-# Projeto
-# Agente de Monitoramento e Alerta
 !pip install elasticsearch scikit-learn numpy pandas faker
 from elasticsearch import Elasticsearch
 
